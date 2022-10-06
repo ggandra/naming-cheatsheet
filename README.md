@@ -7,7 +7,7 @@
 # Cheatsheet de nomeclatura
 
 - [Escreva em inglês](#escreva-em-inglês)
-- [Naming convention](#naming-convention)
+- [Padrões de nomenclatura](#padrões-de-nomenclatura)
 - [S-I-D](#s-i-d)
 - [Avoid contractions](#avoid-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
@@ -41,7 +41,7 @@ const friends = ['João', 'Raul']
 
 > Goste ou não, o Inglês é a língua dominante na programação: a sintaxe de todas as linguagens de programação é escrita em Inglês, assim como inúmeras documentações e materiais educacionais. Ao escrever seu código em Inglês, você aumenta drasticamente sua coesão.
 
-## Padrão de nomenclatura
+## Padrões de nomenclatura
 
 Escolha **um** padrão de nomenclatura e siga o mesmo. Podendo ser `camelCase`, `PascalCase`, `snake_case`, ou qualquer outro que te agrade ou agrade a equipe, contando que seja consistente. Algumas linguaguens de programação tem seu próprio contrato sobre padrão de nomenclaturas; para isso, olhe a documentação da linguaguem e verifique repositórios populares no Github!
 
